@@ -54,6 +54,12 @@ Firslty I took a single sound of dog bark and performed analysis by checking the
 
 ![image](https://user-images.githubusercontent.com/63282184/160834712-d315a6a7-aa13-40f1-b055-b5f6ec9ea908.png)
 
+#### Summary fof the model
+
+![image](https://user-images.githubusercontent.com/63282184/160836824-a389162d-59b4-48b3-acca-4213c2674975.png)
+
+I have trained the modek 
+
 ### 8. Training the model
 ![image](https://user-images.githubusercontent.com/63282184/160834812-870efa51-63ac-4081-8a43-c8b0ce74a28c.png)
 
