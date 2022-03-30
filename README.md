@@ -52,4 +52,10 @@ Firslty I took a single sound of dog bark and performed analysis by checking the
 
 ### 7. Building the model
 
+![image](https://user-images.githubusercontent.com/63282184/160834712-d315a6a7-aa13-40f1-b055-b5f6ec9ea908.png)
+
+### 8. Training the model
+![image](https://user-images.githubusercontent.com/63282184/160834812-870efa51-63ac-4081-8a43-c8b0ce74a28c.png)
+
+
 
